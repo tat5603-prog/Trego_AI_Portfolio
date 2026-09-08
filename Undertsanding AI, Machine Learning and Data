@@ -1,14 +1,26 @@
-Part 1:
+Part 1 - Undertsand the Business Problem:
+
 1. What is the business problem?
-  A grocery store is trying to create a marketing campaign in order to boost sales. This means that the company needs to figure out who 
-  they should advertise to in order to maximize profit.  
+  A grocery store is trying to create a marketing campaign in order to boost sales for their new wine section in the stores. This means
+  that the company needs to figure out who they should advertise to in order to maximize profit.  
 
 2. Why is this problem important to the organization?
   This problem is important to the grocery store because if they do not advertise to the right people they will waste money on a 
-  marketing. campaign. The hope of the campaign is that it will help the company make more money than they will spend and if they do not
-  advertise to the right people they will not meet this goal. Along with this, figuring out who the grocery store should advertise to 
-  will allow them to decide how they should advertise to them in order to be the most seen and/or persuasive. 
+  marketing campaign. The hope of the campaign is that it will help the company make more money than what will be spent on the campaign 
+  and if they do not advertise to the right people they will not meet this goal. Along with this, figuring out who the grocery store
+  should advertise to will allow them to decide how they should advertise to them in order to be the most seen and/or persuasive. 
 
 3. Who is affected by this problem?
   The people affected by this problem is the costumers, this is because they will become subject to the advertisments from the marketing
-  campaign whether they specifically want to. 
+  campaign whether they specifically want to. This will also affect the managers and higher up as they specifically are affected by how
+  well the store does in sales. Along with this it will affect employees as if the campaign does terribly they may lose their job or
+  recieve a pay cut. The marketing department will be the most affected as they will have to create advertisments meant for these
+  specific people in order for the campaign to be effective.
+
+
+Part 2 - Identify the Data:
+
+1. What data would you need?
+  The data that would be needed for this AI system would be the characterisitcs of previous costumers. This includes variables like age,
+  income, household number, date costumer started shopping, how recently they shopped at the store, and how much they have spent on wine
+  previously. 
