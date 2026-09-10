@@ -1,0 +1,16 @@
+1. What are the features? Identify the information that the model could use as inputs.
+  The features of my model are the costumers age, annual income, household size, 
+
+What is the label?
+What outcome should the model learn to predict?
+
+What would training data contain?
+Why should testing data be kept separate?
+What could be a false positive?
+What could be a false negative?
+Would precision or recall be more important?
+Explain your reasoning.
+
+What types of poor-quality data could affect this model?
+What could cause this model to overfit?
+What would make you trust—or not trust—the model's predictions?
