@@ -33,8 +33,91 @@ Part 2 - Identify the Data:
   similare demographic of people.
 
 4. What would be the most important variables?
-  I believe that the most important variables will be the age of the costumers 
+  I believe that the most important variables will be the age of the costumers because that is an easy demographic to follow and
+  it can be very telling which age group is most likely to buy wine. Another important variable will be the amount of money the 
+  customers have already spent on wine in the past. This is because if they have never bought wine before their characteristics will be
+  the type that the company would not want to advertise to.
+
+5. What could be missing or inaccurate?
+  Something that could be inaccurate is someones age as people lie about their ages online and in their emails very often. Along with
+  this someones address or location could be inaccurate if they have moved. 
 
 
+Part 3 — Identify Features and Target 
+
+A. What information would you give the model?
+These are your features.
+List at least 5 features.
+1. Costumer Age
+2. Costumers yearly income
+3. Number of children in the home
+4. How long the customer has been a member
+5. Number of days since costumers last purchase
+6. Amount of money spent on wine in the last two years
+
+B. What would you want the model to determine?
+  I would want the model to determine the average age group, children count, and income of the current costumers and compare it to how
+  much they have spent on wine products so far in the past two years. This will determine what type of person is likely to spend money
+  on wine and than can provide the demographic of people the grocery store should advertise to in their next campaign.
+
+
+Part 4 — Select the AI/ML Approach 
+
+1. Would you use supervised or unsupervised learning?
+  This model would use unsupervised learning.
+
+2. Explain your choice.
+  This model would use unsupervised learning because it does not already have the answer to the question who should the company
+  company advertise to. Instead the model is just compiling data and giving ranges of who is most likely to purchas wine and who will
+  be responsive to the marketing campaign. 
+
+3. Would the problem involve classification or prediction?
+  This problem would involve prediction not classification.
+
+4. Explain your choice.
+  This model would involve prediction because it is trying to predict who the grocery store should advertise to in order to make a
+  profit. While it is classifying specific costumers from the data as people who are more likely to buy wine this is not the main 
+  objective of the model. The main objective is to identify the characteristics that make someone more susceptable to the marketing.
+
+
+Part 5 — Data Quality and Business Impact
+
+A. Identify three possible data-quality problems.
+  1. Incorrect values
+  2. Outdated data
+  3. Biased data
+
+B. What could happen if the data is poor?
+  If the data quality is poor the model will not work as intended. This means that it will inform the company of people who will
+  not be interested or susceptable to their marketing campaign. This will cause the company to spend money on advertisments that will
+  not work as well as they could if they were advertised to the right people. This could cause the company to lose money or make less
+  than possible.
+
+
+Part 6 — Complete AI Solution Summary
+
+Business Problem:
+  A grocery store is trying to figure out who to advertise their new wine section to.
+
+Data Needed:
+  The data needed to solve this problem is current members of the grocery stores age, family size, annual income, recency of purchase,
+  and amount of money spent on wine.
+
+AI/ML Approach:
+  This system would be considered machine learning because it is not using complex data.
+
+Type of Learning:
+  This system would use unsupervised learning as it is using data without the answers and it would use prediction as it is not trying
+  to classify anything.
+
+Model Output:
+  The output of the model will be the characteristics of someone who would be a good person to advertise the new wine section to.
+
+Business Benefit:
+  This system will help the grocery store as it will help to improve their marketing strategy which will help their sales to increase.
+
+Potential Risk:
+  A potential risk of this system is that it has incorrect data and causes the grocery store to advertise to people who will not be 
+  interested in the new wine section which could cause the company to not have a profit or not make as much money as possible.
 
 https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign 
