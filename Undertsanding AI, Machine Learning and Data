@@ -11,9 +11,9 @@ Part 1 - Undertsand the Business Problem:
   should advertise to will allow them to decide how they should advertise to them in order to be the most seen and/or persuasive. 
 
 3. Who is affected by this problem?
-  The people affected by this problem is the costumers, this is because they will become subject to the advertisments from the marketing
+  The people affected by this problem are the costumers, this is because they will become subject to the advertisments from the marketing
   campaign whether they specifically want to. This will also affect the managers and higher up as they specifically are affected by how
-  well the store does in sales. Along with this it will affect employees as if the campaign does terribly they may lose their job or
+  well the store does in sales. Along with this it will affect employees as if the campaign does not do well they may lose their job or
   recieve a pay cut. The marketing department will be the most affected as they will have to create advertisments meant for these
   specific people in order for the campaign to be effective.
 
@@ -48,12 +48,12 @@ Part 3 — Identify Features and Target
 A. What information would you give the model?
 These are your features.
 List at least 5 features.
-1. Costumer Age
-2. Costumers yearly income
-3. Number of children in the home
-4. How long the customer has been a member
-5. Number of days since costumers last purchase
-6. Amount of money spent on wine in the last two years
+  1. Costumer Age
+  2. Costumers yearly income
+  3. Number of children in the home
+  4. How long the customer has been a member
+  5. Number of days since costumers last purchase
+  6. Amount of money spent on wine in the last two years
 
 B. What would you want the model to determine?
   I would want the model to determine the average age group, children count, and income of the current costumers and compare it to how
@@ -120,4 +120,5 @@ Potential Risk:
   A potential risk of this system is that it has incorrect data and causes the grocery store to advertise to people who will not be 
   interested in the new wine section which could cause the company to not have a profit or not make as much money as possible.
 
-https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign 
+
+The data that was used for this project: https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign 
