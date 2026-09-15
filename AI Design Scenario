@@ -1,40 +1,38 @@
-1. What are the features? Identify the information that the model could use as inputs.
+The features of the model:
   The features of my model are the costumers age, annual income, household size, when the costumer started shopping with the grocery
   store, how recently they purchased from the store and how much they have spent on wine products in the past.
 
-2. What is the label? What outcome should the model learn to predict?
+The label of the model:
   The label of my model is the characteristics of a costumer who is most likely to be persuaded by a marketing campaign for a new wine 
   section. 
 
-3. What would training data contain?
+The training data:
   The training data would contain 75% of the data from the data set so the rest of the data could be used to test the model. 
 
-4. Why should testing data be kept separate?
+The testing data:
   The testing data needs to be kept seperate because if you try to test the model with the data you have already given it it will
   automatically know if it is correct or not since we have already given it the answer.
 
-5. What could be a false positive?
+False positives:
   A false positive would be identifying someone as likely to purchase the wine when they are not actually very likely to.
 
-6. What could be a false negative?
+False negative:
   A false negative would be identifying someone as not likely to buy wine when they would be likely to buy from the new wine section.
 
-7. Would precision or recall be more important?
+Percision vs. Recall:
   Recall would be more important compared to precision since this is not something that would harm the company too much if they
   advertise to more people than will actually be interested. This is because even if someone is not interested in the wine they may be
   interested in the rest of the store and the advertising may still work.
 
-Explain your reasoning.
-
-8. What types of poor-quality data could affect this model?
+Poor quality data:
   If people have lied about their age or if the data is wrong in other aspects it will cause the model to believe certain people are
   going to be identified as likely to buy wine even if they are not. This will cause the grocery store to advertise to people who will
   not or can not buy from the new wine section.
 
-9. What could cause this model to overfit?
+Overfitting:
   If the model recognizes patterns that do not actually affect how likely someone is to buy wine it may use this to determine how 
   likely someone is to purchase alcohol even though it is not a real factor.
 
-10. What would make you trust—or not trust—the model's predictions?
+Concerns:
   If the model started to give predictions of costumers who I know would not buy the wine. This could include people under the age of
   twenty-one, someone who has never spent money on wine before, or someone who is way different from the other predictions made.
