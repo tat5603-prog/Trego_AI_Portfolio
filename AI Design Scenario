@@ -37,4 +37,4 @@ Explain your reasoning.
 
 10. What would make you trust—or not trust—the model's predictions?
   If the model started to give predictions of costumers who I know would not buy the wine. This could include people under the age of
-  twenty-one or someone who is way different from the other predictions made.
+  twenty-one, someone who has never spent money on wine before, or someone who is way different from the other predictions made.
