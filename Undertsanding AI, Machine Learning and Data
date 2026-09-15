@@ -1,16 +1,16 @@
-Part 1 - Undertsand the Business Problem:
+Undertsand the Business Problem:
 
-1. What is the business problem?
+The business problem:
   A grocery store is trying to create a marketing campaign in order to boost sales for their new wine section in the stores. This means
   that the company needs to figure out who they should advertise to in order to maximize profit.  
 
-2. Why is this problem important to the organization?
+Importance to the company:
   This problem is important to the grocery store because if they do not advertise to the right people they will waste money on a 
   marketing campaign. The hope of the campaign is that it will help the company make more money than what will be spent on the campaign 
   and if they do not advertise to the right people they will not meet this goal. Along with this, figuring out who the grocery store
   should advertise to will allow them to decide how they should advertise to them in order to be the most seen and/or persuasive. 
 
-3. Who is affected by this problem?
+Who is affected:
   The people affected by this problem are the costumers, this is because they will become subject to the advertisments from the marketing
   campaign whether they specifically want to. This will also affect the managers and higher up as they specifically are affected by how
   well the store does in sales. Along with this it will affect employees as if the campaign does not do well they may lose their job or
@@ -18,21 +18,21 @@ Part 1 - Undertsand the Business Problem:
   specific people in order for the campaign to be effective.
 
 
-Part 2 - Identify the Data:
+Identify the Data:
 
-1. What data would you need?
+Data:
   The data that would be needed for this AI system would be the characterisitcs of previous costumers. This includes variables like age,
   income, household number, date costumer started shopping, how recently they shopped at the store, and how much they have spent on wine
   previously. 
 
-2. Where could the data come from?
+Origin of data:
   The data could come from current members of the grocery store, and the data that the grocery store stores from previous customers.
 
-3. How much historical data might be useful?
+Historical data:
   Historical data will be very useful as it shows who their current customers are, and therefore the company should advertise to a 
   similare demographic of people.
 
-4. What would be the most important variables?
+Important variables:
   I believe that the most important variables will be the age of the costumers because that is an easy demographic to follow and
   it can be very telling which age group is most likely to buy wine. Another important variable will be the amount of money the 
   customers have already spent on wine in the past. This is because if they have never bought wine before their characteristics will be
