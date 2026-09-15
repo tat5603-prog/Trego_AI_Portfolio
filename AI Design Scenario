@@ -1,8 +1,9 @@
 1. What are the features? Identify the information that the model could use as inputs.
-  The features of my model are the costumers age, annual income, household size, 
+  The features of my model are the costumers age, annual income, household size, when the costumer started shopping with the grocery
+  store, how recently they purchased from the store and how much they have spent on wine products in the past.
 
-What is the label?
-What outcome should the model learn to predict?
+2. What is the label? What outcome should the model learn to predict?
+  The label of my model is the characteristics of a costumer who is most likely to 
 
 What would training data contain?
 Why should testing data be kept separate?
