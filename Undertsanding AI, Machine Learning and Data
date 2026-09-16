@@ -38,16 +38,14 @@ Important variables:
   customers have already spent on wine in the past. This is because if they have never bought wine before their characteristics will be
   the type that the company would not want to advertise to.
 
-5. What could be missing or inaccurate?
+Inaccuracies:
   Something that could be inaccurate is someones age as people lie about their ages online and in their emails very often. Along with
   this someones address or location could be inaccurate if they have moved. 
 
 
-Part 3 — Identify Features and Target 
+Identify Features and Target:
 
-A. What information would you give the model?
-These are your features.
-List at least 5 features.
+Information given to the model:
   1. Costumer Age
   2. Costumers yearly income
   3. Number of children in the home
@@ -55,46 +53,41 @@ List at least 5 features.
   5. Number of days since costumers last purchase
   6. Amount of money spent on wine in the last two years
 
-B. What would you want the model to determine?
+What the model will determine:
   I would want the model to determine the average age group, children count, and income of the current costumers and compare it to how
   much they have spent on wine products so far in the past two years. This will determine what type of person is likely to spend money
   on wine and than can provide the demographic of people the grocery store should advertise to in their next campaign.
 
 
-Part 4 — Select the AI/ML Approach 
+The AI/ML Approach: 
 
-1. Would you use supervised or unsupervised learning?
-  This model would use unsupervised learning.
+Type of learning:
+  This model would use unsupervised learning. This model would use unsupervised learning because it does not already have the answer 
+  to the question who should the company advertise to. Instead the model is just compiling data and giving ranges of who is most 
+  likely to purchas wine and who will be responsive to the marketing campaign. 
 
-2. Explain your choice.
-  This model would use unsupervised learning because it does not already have the answer to the question who should the company
-  company advertise to. Instead the model is just compiling data and giving ranges of who is most likely to purchas wine and who will
-  be responsive to the marketing campaign. 
-
-3. Would the problem involve classification or prediction?
-  This problem would involve prediction not classification.
-
-4. Explain your choice.
-  This model would involve prediction because it is trying to predict who the grocery store should advertise to in order to make a
-  profit. While it is classifying specific costumers from the data as people who are more likely to buy wine this is not the main 
-  objective of the model. The main objective is to identify the characteristics that make someone more susceptable to the marketing.
+Classification vs. Prediciton:
+  This problem would involve prediction not classification. This model would involve prediction because it is trying to predict who 
+  the grocery store should advertise to in order to make a profit. While it is classifying specific costumers from the data as people
+  who are more likely to buy wine this is not the main objective of the model. The main objective is to identify the characteristics
+  that make someone more susceptable to the marketing.
 
 
-Part 5 — Data Quality and Business Impact
+Data Quality and Business Impact:
 
-A. Identify three possible data-quality problems.
+Three possible data problems
   1. Incorrect values
   2. Outdated data
   3. Biased data
 
-B. What could happen if the data is poor?
+Possible issues:
   If the data quality is poor the model will not work as intended. This means that it will inform the company of people who will
   not be interested or susceptable to their marketing campaign. This will cause the company to spend money on advertisments that will
   not work as well as they could if they were advertised to the right people. This could cause the company to lose money or make less
   than possible.
 
 
-Part 6 — Complete AI Solution Summary
+AI Solution Summary
 
 Business Problem:
   A grocery store is trying to figure out who to advertise their new wine section to.
